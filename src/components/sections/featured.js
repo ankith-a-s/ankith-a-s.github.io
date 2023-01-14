@@ -127,7 +127,7 @@ const StyledImgContainer = styled.a`
   grid-row: 1 / -1;
   position: relative;
   z-index: 1;
-  background-color: ${colors.green};
+  background-color: #d8d8f8;
   border-radius: ${theme.radius + 1}px;
   transition: ${theme.transition};
   ${media.tablet`height: 100%;`};
@@ -155,7 +155,7 @@ const StyledImgContainer = styled.a`
     bottom: 0;
     z-index: 3;
     transition: ${theme.transition};
-    background-color: ${colors.navy};
+
     mix-blend-mode: screen;
   }
 `;

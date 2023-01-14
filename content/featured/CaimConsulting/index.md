@@ -1,16 +1,16 @@
 ---
-date: '1'
-title: 'Caim Consulting'
-cover: 'demo1.png'
-github: 'https://github.com/caimconsulting/caim-consulting-website'
-external: 'https://caimconsulting.in/'
+date: '2'
+title: 'E-commerce Application'
+cover: 'demo.png'
+github: 'https://github.com/ankith-a-s/E-commerce-react-redux'
 tech:
-  - HTML
-  - CSS
+  - NodeJS
+  - React
   - Javascript
-  - Bootstrap
+  - Express
+  - Postgres
 
 showInProjects: true
 ---
 
-Collaborated with the [Developer Team](https://caimconsulting.in/developers/?) to develop the front-end and deploy the website on Heroku for a pro-bono legal startup [Caim Consulting](https://caimconsulting.in/).
+Provided a comprehensive solution to digitize clothing store using React, NodeJS and AWS.

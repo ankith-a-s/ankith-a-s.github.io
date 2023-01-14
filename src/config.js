@@ -1,39 +1,39 @@
 module.exports = {
-  siteTitle: 'Chandrika Deb | Software Developer | Content Freelancer',
+  siteTitle: 'Ankith Aralehalli Shankar | Software Developer | Content Freelancer',
   siteDescription:
-    'Chandrika Deb is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
+    'Ankith Aralehalli Shankar is a Software Developer at Amdocs, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Chandrika Deb, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
-  siteUrl: 'https://chandrikadeb7.github.io/',
+    'Ankith Aralehalli Shankar, Chandrika, Deb, chandrikadeb7, software developer, software engineer, content freelancer, face mask, face mask detection, web developer, java developer, pepper content, jamshedpur, amdocs, bit, mesra',
+  siteUrl: 'https://ankith98.github.io/',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Chandrika Deb',
-  location: 'Jamshedpur, India',
-  email: 'chandrikadeb7@gmail.com',
-  github: 'https://github.com/chandrikadeb7',
+  name: 'Ankith Aralehalli Shankar',
+  location: 'Tempe, USA',
+  email: 'aaraleha@asu.edu',
+  github: 'https://github.com/ankith-a-s',
   twitterHandle: '@chandrikadeb7',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/chandrikadeb7',
+      url: 'https://github.com/ankith-a-s',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/chandrika-deb/',
+      url: 'https://www.linkedin.com/in/ankith-a-s/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/chandrikadeb7',
-    },
+    // {
+    //   name: 'Codepen',
+    //   url: 'https://codepen.io/chandrikadeb7',
+    // },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/chandrikadeb7',
+      url: 'https://www.instagram.com/ankith98/',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/chandrikadeb7',
-    },
+    // {
+    //   name: '',
+    //   url: '',
+    // },
   ],
 
   navLinks: [

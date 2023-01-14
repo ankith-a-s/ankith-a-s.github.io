@@ -1,23 +1,35 @@
 ---
 title: 'About Me'
-avatar: 'me.jpg'
+avatar: 'me.jpeg'
 skills:
-  - Java Enterprise
-  - Spring MVC & Maven
-  - Jenkins (CI/CD)
-  - Kafka & Couchbase
-  - JUnit & TestNG
-  - IntelliJ Idea
-  - Golang
+  - Javascript
+  - React
+  - Angular
+  - StencilJS (Web Components)
+  - Typescript
+  - NodeJS
+  - Express
   - Python
+  - Amazon Web Services (AWS)
+  - Google Cloud Platform (GCP)
+  - Gitlab CI/CD
+  - Docker
+  - Linux
+  - Bash
+  - C#
+  - ASP.NET
+  - Postgres
+  - Neo4j
+  - SQL
 ---
 
-Hello! Interestingly, I got introduced to programming in my freshman year at [Birla Institute Of Technology,  Mesra](https://www.bitmesra.ac.in/) where I completed my Bachelors in Computer Science and Engineering (2016-2020) with [86.3% aggregate](https://drive.google.com/file/d/1G4UBPBP0mvWZLRdkF_EcpmKKGp7_OA8U/view?usp=sharing).
+Experienced in end-to-end software development. Having a good understanding of customer relations and having the ability to provide high-quality products on time. 
 
-I'm currently working as a developer for **Bell Canada** in the Amdocs Digital Delivery unit. My responsibilty includes Java/Spring based microservices development & testing. 
 
-I'm also an [Innovation Agent](https://drive.google.com/file/d/117KS9QnDrcg7dllcAzGz_b7qQPgR3pGs/view?usp=sharing) fostering the culture of creativity and innovation at Amdocs, India.
+I'm currently pursuing Master's in Computer Science at [Arizona State University](https://scai.engineering.asu.edu/graduate-computer-science/) 
 
-I have been awarded as Winner in [Innovation Nugget](https://drive.google.com/file/d/1PzTZkXlQV9ldZxqmBbbO94uIqrhSwvcq/view?usp=sharing), Creativity Jam, [Design Thinking Hackathon](https://drive.google.com/file/d/1hXCATvKwzHCvctHtElsqFg5YIqabz22O/view?usp=sharing) and Runners-Up in [Project ICE Fair](https://drive.google.com/file/d/1exB19OoQ5dzU2mg4qbdkNutA25TGBWV3/view?usp=sharing) by Amdocs.
+I had worked as Full Stack Developer for 3 years during which I had worked with [Greenstory](https://greenstory.io/) and [Ideacrest Solutions](https://www.ideacrestsolutions.com/) 
+
+I love cricket and fan of RCB and Virat Kohli
 
 Here is a list of the technologies that I'm familiar with!

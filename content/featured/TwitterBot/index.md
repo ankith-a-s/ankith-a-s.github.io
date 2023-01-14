@@ -1,14 +1,17 @@
 ---
-date: '2'
-title: 'GirlScript Twitter Bot'
-cover: 'bot.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
-external: 'https://twitter.com/girlscript_bot'
+date: '1'
+title: 'Stock Price Tracker'
+cover: 'demo.png'
+github: 'https://github.com/ankith-a-s/real-time-stock-price'
+external: 'https://angular-ivy-kwtexp.stackblitz.io/'
 tech:
-  - Python
-  - tweepy
-  - Twitter API
+  - Typescript
+  - Angular
+  - Angular Material
+  - SCSS
+  - Angular Charts
+  - Finnhub Web Socket API
 showInProjects: true
 ---
 
-A Twitter Bot for [GirlScript Foundation](https://www.girlscript.tech/) that automatically retweets, favourites the tweets and follows the users who tweet with hashtag #girlscript. Checkout my tech blog on how to create it [HERE](https://www.geeksforgeeks.org/how-to-make-a-twitter-bot-in-python/)
+Application to add the stock symbols and provides ability to track the stock prices. Stock Prices are updated every 5 seconds using Finnhub API

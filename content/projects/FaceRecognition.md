@@ -1,15 +1,16 @@
 ---
 date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+title: 'Pothole Detection System using Raspberry Pi and Deep Learning'
+github: 'https://github.com/ankith-a-s/Pothole-Detection-System-using-Raspberry-Pi-and-Deep-Learning'
 external: ''
 tech:
   - Python
-  - OpenCV
-  - Pillow
+  - Raspberry Pi
+  - Flask
   - NumPy
+  - Android
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+Pothole Detection System build using Raspberry Pi, Deep Learning and Flask for the Backend
