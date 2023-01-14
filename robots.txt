@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://ankith98.github.io/sitemap-index.xml
-Host: https://ankith98.github.io
+Sitemap: https://ankith-a-s.github.io/sitemap-index.xml
+Host: https://ankith-a-s.github.io
